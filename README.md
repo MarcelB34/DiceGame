@@ -36,19 +36,20 @@ dicegame_ui.py – enthält ausschließlich die UI-Steuerung, keine Spiellogik
 Datenaustausch zwischen den Schichten erfolgt über Dictionaries
 
 Screenshots:
-![Ui Design]("UI_Entwurf.png")
+
+![Ui Design](UI_Entwurf.png)
 
 
 
 
 
-![Ui Status Start]("Ui_Entwurf_QT.png")
+![Ui Status Start](Ui_Entwurf_QT.png)
 
 
 
 
 
-![Ui Status Ingame]("DiceGame_in_action.png")
+![Ui Status Ingame](DiceGame_in_action.png)
 
 
 
@@ -70,7 +71,7 @@ Fehlerbehandlung und Reset-Logik
 Anwendung von OOP-Prinzipien in einem vollständigen Projekt
 
 Dokumentation:
-link folgt hier noch. Ist aber schon in den Dateien.
+https://github.com/MarcelB34/DiceGame/blob/6374e53faf9afb3ed7d8113b88837d653f76a2c9/DiceGame_Dokumentation-1.docx
 
 
 👨‍💻 Über den Entwickler
