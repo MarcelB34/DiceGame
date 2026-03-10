@@ -37,7 +37,9 @@ Datenaustausch zwischen den Schichten erfolgt über Dictionaries
 
 Screenshots:
 ![Ui Design](Screenshot 2026-03-09 200328.png)
+
 ![Ui Status Start](Screenshot 2026-03-09 200837.png)
+
 ![Ui Status Ingame](Screenshot 2026-03-10 001559.png)
 
 ▶️ Installation & Start
